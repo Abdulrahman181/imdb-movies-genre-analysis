@@ -1,0 +1,13 @@
+# Local dataset files are intentionally not committed.
+/data/
+
+# Jupyter execution artifacts.
+.ipynb_checkpoints/
+
+# Python caches.
+__pycache__/
+*.py[cod]
+
+# Local Kaggle credentials (never commit these).
+kaggle.json
+.kaggle/
